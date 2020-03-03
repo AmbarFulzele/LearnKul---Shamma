@@ -17,7 +17,7 @@
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/CodingDecoding2.html">Coding Decoding Assignment 2</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/CodingDecoding3.html"></a>Coding Decoding Assignment 3</li>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/CodingDecoding3.html">Coding Decoding Assignment 3</a></li>
 	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelationBasic.html">Blood Relation Basic</a></li>
