@@ -19,4 +19,10 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/CodingDecoding3.html"></a>Coding Decoding Assignment 3</li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelationBasic.html">Blood Relation Basic</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelation.html"></a>Blood Relation Assignment 1</li>
+	</ul>
 </body></html>
