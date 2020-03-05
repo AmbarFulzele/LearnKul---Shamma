@@ -22,10 +22,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput1.html">Input Output Assignment 1</a></li>
 	</ul>
-	
-	<ul>
+	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput2.html">Input Output Assignment 2</a></li>
-	</ul>
+	</ul>-->
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelationBasic.html">Blood Relation Basic</a></li>
 	</ul>
@@ -44,9 +43,9 @@
 	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/Puzzles.html">Puzzles </a></li>
 	</ul>-->
-	<!--<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning1.html">Abstract Reasoning 1 </a></li>
-	</ul>-->
+	</ul>
 	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning2.html">Abstract Reasoning 2 </a></li>
 	</ul>-->
