@@ -43,4 +43,13 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/Puzzles.html"></a>Puzzles </li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning1.html"></a>Abstract Reasoning 1 </li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning2.html"></a>Abstract Reasoning 2 </li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning3.html"></a>Abstract Reasoning 3 </li>
+	</ul>
 </body></html>
