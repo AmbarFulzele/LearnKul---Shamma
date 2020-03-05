@@ -20,8 +20,9 @@
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/CodingDecoding3.html">Coding Decoding Assignment 3</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput1.html"></a>Input Output Assignment 1</li>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput1.html">Input Output Assignment 1</a></li>
 	</ul>
+	<!--
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput2.html"></a>Input Output Assignment 2</li>
 	</ul>
@@ -52,4 +53,6 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning3.html"></a>Abstract Reasoning 3 </li>
 	</ul>
+	-->
+
 </body></html>
