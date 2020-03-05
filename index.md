@@ -23,9 +23,9 @@
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput1.html">Input Output Assignment 1</a></li>
 	</ul>
 	
-	<!--<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput2.html">Input Output Assignment 2</a></li>
-	</ul>-->
+	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelationBasic.html">Blood Relation Basic</a></li>
 	</ul>
