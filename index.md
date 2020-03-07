@@ -49,9 +49,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning1.html">Abstract Reasoning 1 </a></li>
 	</ul>
-	<!--<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning2.html">Abstract Reasoning 2 </a></li>
-	</ul>-->
+	</ul>
 	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/AbstractReasoning3.html">Abstract Reasoning 3 </a></li>
 	</ul>-->
