@@ -26,6 +26,9 @@
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InputOutput2.html">Input Output Assignment 2</a></li>
 	</ul>
 	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/Syllogism.html">Syllogism</a></li>
+	</ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelationBasic.html">Blood Relation Basic</a></li>
 	</ul>
 	<!--<ul>
