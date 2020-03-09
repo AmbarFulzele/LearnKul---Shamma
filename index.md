@@ -34,11 +34,11 @@
 	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelation.html">Blood Relation Assignment 1</a></li>
 	</ul>-->
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/SeatingArrangement.html">Seating Arrangement </a></li>
+	</ul>
 	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/InEquality.html">InEquality </a></li>
-	</ul>-->
-	<!--<ul>
-	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/SeatingArrangement.html">Seating Arrangement </a></li>
 	</ul>-->
 	<!--<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/CriticalReasoning.html">Critical Reasoning </a></li>
