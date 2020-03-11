@@ -34,9 +34,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelationBasic.html">Blood Relation Basic</a></li>
 	</ul>
-	<!--<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/BloodRelation.html">Blood Relation Assignment 1</a></li>
-	</ul>-->
+	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/SeatingArrangement.html">Seating Arrangement </a></li>
 	</ul>
