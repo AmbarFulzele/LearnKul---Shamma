@@ -5,6 +5,12 @@
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/MHCETMocks/Mock1.html">MBA CET Mock 1</a></li>
 	</ul>
 	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/MHCETMocks/Mock2.html">MBA CET Mock 2</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/MHCETMocks/Mock3.html">MBA CET Mock 3</a></li>
+	</ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/LearnKul---Shamma/Direction1.html">Direction Assignment 1</a></li>
 	</ul>
 	<ul>
